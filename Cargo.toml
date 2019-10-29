@@ -1,0 +1,8 @@
+[package]
+name = "systeminfo"
+version = "0.1.0"
+authors = ["slient2010 <slient2010@163.com>"]
+edition = "2018"
+
+[dependencies]
+systemstat = "0.1.5"
